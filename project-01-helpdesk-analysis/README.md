@@ -69,6 +69,15 @@ This project demonstrates the use of SQL to analyze a sample IT Helpdesk databas
 - [database.sql](database.sql) – Database schema and sample records.
 - [analysis.sql](analysis.sql) – SQL queries used for analysis.
 - [results.md](results.md) – Project findings and conclusions.
+## SQL Query Screenshots
+
+![INNER JOIN](https://raw.githubusercontent.com/King-Hari/sql-portfolio/main/screenshots/inner%20join.jpg)
+
+![Average Resolution Time](https://raw.githubusercontent.com/King-Hari/sql-portfolio/main/screenshots/average.jpg)
+
+![Ticket Volume by Priority](https://raw.githubusercontent.com/King-Hari/sql-portfolio/main/screenshots/Ticket%20Volume%20by%20Priority.jpg)
+
+![Ticket Analysis by Department](https://raw.githubusercontent.com/King-Hari/sql-portfolio/main/screenshots/Ticket%20Analysis%20by%20Department.jpg)
 
 ## Conclusion
 
